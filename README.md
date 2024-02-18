@@ -1,5 +1,5 @@
-Desenvolvi um sistema que controla todas as vistorias feitas em Postos SPTrans, facilidando o acesso, cadastro, e visualização dos dados
-O sistema em si consiste em um formulario, onde ao final após todas suas validações serem concluidas, gera um documento como todas as informações obtidas daquele formulario, sendo possivel tomar decisões com base no documento ali gerado
+Desenvolvi um sistema que controla todas as vistorias feitas em Postos SPTrans, facilitando o acesso, cadastro, e visualização dos dados
+O sistema em si consiste em um formulario, onde ao final após todas suas validações serem concluidas, gera um documento com todas as informações obtidas daquele formulario, sendo possivel tomar decisões com base no documento ali gerado
 o documento tem sua sigla de identificação chamada de "RFC" Realatório de Fiscalização, sendo uma chave prímaria sequencial, garantindo a integridade de todos os dados na hora de salva-los em um banco de dados relacional, que no meu caso utilizo o mysql como banco de dados e WampServer como servidor
 
 ##
